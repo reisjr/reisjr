@@ -1,8 +1,8 @@
 ### Hi there, I'm David 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.davidreisjr.com.br)
+[![Website](https://img.shields.io/website?label=davidreisjr.com.br&style=for-the-badge&url=https%3A%2F%2Fwww.davidreisjr.com.br)](https://www.davidreisjr.com.br)
 
-## I'm an Architectec, Developer, and IoT Enthusiast!
+## I'm an Architect, Developer, and IoT Enthusiast!
 
 - 🔭 I’m currently working on a [IoT Playground][iot-playground]!
 - 👯 I’m looking to collaborate with other content creators
