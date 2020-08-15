@@ -4,7 +4,7 @@
 
 ## I'm an Architect, Developer, and IoT Enthusiast!
 
-- 🔭 I’m currently working on a [IoT Playground][iot-playground]!
+- 🔭 I’m currently working on [IoT Playground][iot-playground]!
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
