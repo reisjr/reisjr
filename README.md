@@ -17,7 +17,7 @@
 
 <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="David's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reisjr&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reisjr)](https://github.com/reisjr/github-readme-stats)
 
 [website]: https://www.davidreisjr.com.br
 [instagram]: https://instagram.com/reisjr
